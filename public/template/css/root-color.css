@@ -1,0 +1,10 @@
+:root { 
+    --primary-main: linear-gradient(to bottom, rgba(0,71,184,1) 0%, rgba(4,61,159,1) 17%, rgb(7 45 112) 100%);
+    --primary-light: linear-gradient(to bottom, rgb(48, 87, 155) 0%, rgb(48, 87, 155) 17%, rgb(7 45 112) 100%);
+    --primary-hover: linear-gradient(to bottom, rgb(38, 121, 255) 0%, rgb(26, 81, 176) 17%, rgb(7 45 112) 100%);;
+    --primary-focus: #2563eb;
+    
+    --dark: #232426;
+    --font: 14px; 
+    --dark-linear: linear-gradient(to bottom, rgb(66, 66, 66) 0%, rgb(46, 46, 46) 17%, rgb(10, 10, 10)100%); 
+}
